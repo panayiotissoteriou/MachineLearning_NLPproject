@@ -1,4 +1,4 @@
-### Parts of this code are based on an assignment for the course Machine Learning for NLP tought by Anstkse Fokkens at VU Amsterdam in 2021.
+
 
 from sklearn.feature_extraction import DictVectorizer
 from sklearn.svm import LinearSVC
@@ -125,3 +125,5 @@ def main(trainingfile=None, testfile=None):
 
 if __name__ == '__main__':
     main()
+    
+### Parts of this code are based on an assignment for the course Machine Learning for NLP tought by Anstkse Fokkens at VU Amsterdam in 2021.
